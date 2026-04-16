@@ -1,0 +1,25 @@
+24
+48/home/muneeb/campus-events-new/dist/contact.html1776312355164000122 0
+56/home/muneeb/campus-events-new/dist/gallery.64cf65fd.css1776312355380985407 0
+52/home/muneeb/campus-events-new/dist/destination.html1776312355139001817 0
+49/home/muneeb/campus-events-new/dist/packages.html1776312355236995172 0
+60/home/muneeb/campus-events-new/dist/gallery.64cf65fd.css.map1776312355387984932 0
+46/home/muneeb/campus-events-new/dist/index.html1776312355242994765 0
+35/home/muneeb/campus-events-new/dist1776312355387984932 1
+43/home/muneeb/campus-events-new/package.json1776312349308415173 0
+34/home/muneeb/campus-events-new/src1776312098871383317 1
+45/home/muneeb/campus-events-new/.gitattributes1776311803365102349 0
+40/home/muneeb/campus-events-new/README.md1776311803365760707 0
+37/home/muneeb/campus-events-new/styles1776312127224399882 1
+47/home/muneeb/campus-events-new/src/contact.html1776311803367296434 0
+45/home/muneeb/campus-events-new/src/index.html1776311828932308878 0
+48/home/muneeb/campus-events-new/dist/gallery.html1776312355380985407 0
+48/home/muneeb/campus-events-new/package-lock.json1776312139217588767 0
+47/home/muneeb/campus-events-new/styles/style.css1776312127219399377 0
+47/home/muneeb/campus-events-new/src/gallery.html1776312098864382527 0
+41/home/muneeb/campus-events-new/.gitignore1776311803365102349 0
+48/home/muneeb/campus-events-new/src/packages.html1776311828932308878 0
+51/home/muneeb/campus-events-new/src/destination.html1776311803367296434 0
+30/home/muneeb/campus-events-new1776312355086005410 1
+41/home/muneeb/campus-events-new/Dockerfile1776311803365760707 0
+44/home/muneeb/campus-events-new/.dockerignore1776311803365102349 0
