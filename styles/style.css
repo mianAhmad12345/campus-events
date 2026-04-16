@@ -1,6 +1,27 @@
+
 .package {
     border: 1px solid #ccc;
     padding: 15px;
     margin: 10px;
     border-radius: 8px;
 }
+
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+nav {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    color: blue;
+}
+
+footer {
+    margin-top: 20px;
+}
+
