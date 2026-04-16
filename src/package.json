@@ -1,0 +1,8 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "parcel build gallery.html"
+  }
+}
